@@ -39,3 +39,5 @@ Visualization was added to the map with appropriate color palettes for the image
 ![ndvi](https://github.com/user-attachments/assets/e2d57e9e-07da-4129-81e0-ccaf1e50807b)
 
 
+
+![ee-chart](https://github.com/user-attachments/assets/87bdf5fd-b799-4283-91c5-edcede53c202)
